@@ -1,4 +1,5 @@
 ---
 # durability means that it will take so much explosion to destroy an obsidian
+# max 15 for the moment
 durability: 3
 ...
